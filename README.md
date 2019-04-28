@@ -1,5 +1,5 @@
 # DNS-Lookup
-| DNS Lookup Tools
+| DNS Lookup Tools <br>
 | DNS LOOKUP BY SADCODE <br>
 | Just For Education Only <br>
 | Coded By VanGans<br>
